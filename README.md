@@ -39,10 +39,12 @@ Los archivos de la tabla y sus visualizaciones, están disponibles en la carpeta
 | defunciones_sintomas.ipynb | Defunciones de casos positivos acumulados por fecha de inicio de síntomas |
 
 Cada archivo, una vez instalado *Python* y *Jupyter Notebooks*, podrás verlo en este último de la siguiente manera: 
-![ejemplo_1](https://i.imgur.com/jrMlYxa.png)
+
+<img src="https://i.imgur.com/jrMlYxa.png" width="500">
 
 Al terminar de correr el código, se guardará en el mismo directorio en el que guardaste el archivo `.ipynb` una imagen en formato `.png` con la visualización que corresponde al archivo: 
-![ejemplo_2](https://i.imgur.com/uQnnu1l.png)
+
+<img src="https://i.imgur.com/uQnnu1l.png" width="500">
 
 # Otros recursos
 - Puedes visualizar los reportes de movilidad de google por estado, desde el código incluido en mi repo [mobility-covid19](https://github.com/jballesterosc/mobility-covid19)
