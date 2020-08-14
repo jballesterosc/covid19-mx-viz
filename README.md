@@ -40,11 +40,11 @@ Los archivos de la tabla y sus visualizaciones, están disponibles en la carpeta
 
 Cada archivo, una vez instalado *Python* y *Jupyter Notebooks*, podrás verlo en este último de la siguiente manera: 
 
-<img src="https://i.imgur.com/jrMlYxa.png" width="500">
+<img src="https://i.imgur.com/jrMlYxa.png" width="700">
 
 Al terminar de correr el código, se guardará en el mismo directorio en el que guardaste el archivo `.ipynb` una imagen en formato `.png` con la visualización que corresponde al archivo: 
 
-<img src="https://i.imgur.com/uQnnu1l.png" width="500">
+<img src="https://i.imgur.com/uQnnu1l.png" width="700">
 
 # Otros recursos
 - Puedes visualizar los reportes de movilidad de google por estado, desde el código incluido en mi repo [mobility-covid19](https://github.com/jballesterosc/mobility-covid19)
