@@ -1,5 +1,5 @@
 # covid19-mx-viz
-En este repositorio encontrarás el código para hacer  ***visualizaciones básicas*** en Python del COVID-19 para cualquier entidad de México, a partir de las series de tiempo publicadas diariamente por Mario Jiménez en [*covid19-mx-time-series*](https://github.com/mariorz/covid19-mx-time-series)<sup>1</sup>
+En este repositorio encontrarás el código para hacer  ***visualizaciones básicas*** en Python del COVID-19 para cualquier entidad de México, a partir de las series de tiempo publicadas diariamente por Mario Romero en [*covid19-mx-time-series*](https://github.com/mariorz/covid19-mx-time-series)<sup>1</sup>
 
 # ¿Qué necesitas?
 Previo a visualizar los datos de la sección *indicadores*, deberás tener instalado Python y los paquetes `pandas` y `matplotlib`. En mi caso, fue vía el [instalador de paquetes *pip*](https://pypi.org/project/pip/). 
