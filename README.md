@@ -46,6 +46,8 @@ Al terminar de correr el código, se guardará en el mismo directorio en el que 
 - Puedes visualizar los reportes de movilidad de google por estado, desde el código incluido en mi repo [mobility-covid19](https://github.com/jballesterosc/mobility-covid19)
 - [Irving Morales](https://https://twitter.com/moaimx) [(@irvingfisica)](https://github.com/irvingfisica) tiene un tutorial de dos partes en Medium para visualizar los mismos datos de la Secretaría de Salud, bastante bien explicado. Puedes encontrar la [parte 1 aquí.](https://medium.com/@irvingmoralesagiss/analizando-datos-de-covid19-en-méxico-pt-1-e177d17b3591)
 - Para visualizar mapas a escala nacional o estatal, está la repo [covidmx](https://github.com/FedericoGarza/covidmx) de [Federico Garza](https://twitter.com/fede_gr).
+
 ---------
 [^1]: Datos procesados a partir de los oficiales publicados por la [Secretaría de Salud](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
+
 [^2]: Los datos son adquiridos a partir de la API [*covidmx*](https://pypi.org/project/covidmx/#description) de [Federico Garza](https://twitter.com/fede_gr)
