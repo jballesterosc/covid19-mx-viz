@@ -12,7 +12,7 @@ pip install matplotlib
 ## Para correr el código
 Lo más eficiente para mí fue trabajarlo desde [*Jupyter Notebooks*](https://jupyter.org), sobre todo, por lo fácil de seleccionar celdas específicas y procurar *atender un problema a la vez*. Para mí, insisto, que estoy aprendiendo a trabajar con datos en Python, fue de mucha ayuda para entender la lógica de cada linea de código. 
 
-## A visualizar
+# A visualizar
  En la siguiente tabla encontrarás cada uno de los indicadores que podrás visualizar y el nombre de su archivo dentro de este repositorio. Para saber para qué funciona cada línea y cómo interacturar con el código,  encontrarás comentarios en todos los archivos —los reconoceras por inciar con: `#`—. Por ejemplo:
 
 ``````
@@ -21,7 +21,7 @@ import pandas as pd
 import matplotlib as plt
 ``````
 
-# Indicadores y código
+## Indicadores y código
 Los archivos de la tabla y sus visualizaciones, están disponibles en la carpeta *notebooks* de este repositorio. 
 
 | Nombre del archivo | Descripción |  
