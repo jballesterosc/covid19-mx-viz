@@ -49,4 +49,4 @@ Al terminar de correr el código, se guardará en el mismo directorio en el que 
 - Para visualizar mapas a escala nacional o estatal, está la repo [covidmx](https://github.com/FedericoGarza/covidmx) de [Federico Garza](https://twitter.com/fede_gr).
 
 ---------
-<sup>1</sup>: Datos procesados a partir de los oficiales publicados por la [Secretaría de Salud](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
+<sup>1</sup> Datos procesados a partir de los oficiales publicados por la [Secretaría de Salud](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
