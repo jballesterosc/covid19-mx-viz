@@ -24,18 +24,19 @@ import matplotlib as plt
 
 # Indicadores y código
 Los archivos de la tabla y sus visualizaciones, están disponibles en la carpeta *notebooks* de este repositorio. 
+
 | Nombre del archivo | Descripción |  
-| ------- | ---------  | --------|
-|positivos_registro.ipynb| Casos positivos acumulados por fecha de registro | 
-|positivos_sintomas.ipynb| Casos positivos acumulados por fecha de inicio de síntomas | 
-|hospitalizados_admision.ipynb| Casos hospitalizados confirmados por fecha de admisión |
-|hospitalizados_sintomas.ipynb| Casos hospitalizados confirmados por fecha de inicio de síntomas
-|sospechosos_registro.ipynb| Casos sospechosos por fecha de registro |
-|sospechosos_sintomas.ipynb| Casos sospechosos por fecha de inicio de síntomas |
-|defunciones_registro.ipynb| Defunciones de casos positivos acumulados por fecha de registro | 
-|defunciones_admision.ipynb| Defunciones de casos positivos acumulados  por fecha de admisión |
-|defunciones_fecha.ipynb| Defunciones de casos positivos acumulados por fecha de defunción |
-|defunciones_sintomas.ipynb| Defunciones de casos positivos acumulados por fecha de inicio de síntomas |
+| ------------------------------------ | -------------------------------------------  |
+| positivos_registro.ipynb | Casos positivos acumulados por fecha de registro | 
+| positivos_sintomas.ipynb | Casos positivos acumulados por fecha de inicio de síntomas | 
+| hospitalizados_admision.ipynb | Casos hospitalizados confirmados por fecha de admisión |
+| hospitalizados_sintomas.ipynb | Casos hospitalizados confirmados por fecha de inicio de síntomas
+| sospechosos_registro.ipynb | Casos sospechosos por fecha de registro |
+| sospechosos_sintomas.ipynb | Casos sospechosos por fecha de inicio de síntomas |
+| defunciones_registro.ipynb | Defunciones de casos positivos acumulados por fecha de registro | 
+| defunciones_admision.ipynb | Defunciones de casos positivos acumulados  por fecha de admisión |
+| defunciones_fecha.ipynb | Defunciones de casos positivos acumulados por fecha de defunción |
+| defunciones_sintomas.ipynb | Defunciones de casos positivos acumulados por fecha de inicio de síntomas |
 
 Cada archivo, una vez instalado *Python* y *Jupyter Notebooks*, podrás verlo en este último de la siguiente manera: 
 ![ejemplo_1](https://i.imgur.com/jrMlYxa.png)
