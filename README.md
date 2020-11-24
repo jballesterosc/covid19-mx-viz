@@ -50,6 +50,13 @@ Al terminar de correr el código, se guardará en el mismo directorio en el que 
 - [Irving Morales](https://https://twitter.com/moaimx) [(@irvingfisica)](https://github.com/irvingfisica) tiene un tutorial de dos partes en Medium para visualizar los mismos datos de la Secretaría de Salud, bastante bien explicado. Puedes encontrar la [parte 1 aquí.](https://medium.com/@irvingmoralesagiss/analizando-datos-de-covid19-en-méxico-pt-1-e177d17b3591)
 - Para visualizar mapas a escala nacional o estatal, está la repo [covidmx](https://github.com/FedericoGarza/covidmx) de [Federico Garza](https://twitter.com/fede_gr).
 
+# Actualizaciones
+## 0.2.0 (23 de noviembre del 2020)
+- Notebook con infografía de datos básicos y promedio movil de 7 días.
+- Visualización en Altair. 
+## 0.1.0 (13 de agosto del 2020)
+- Creación del repositorio
+
 ---------
 
 <sup>1</sup> Datos procesados a partir de los oficiales publicados por la [Secretaría de Salud](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
