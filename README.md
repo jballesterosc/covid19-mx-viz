@@ -1,6 +1,11 @@
 # covid19-mx-viz
 En este repositorio encontrarás el código para hacer  ***visualizaciones básicas*** en Python del COVID-19 para cualquier entidad de México, a partir de las series de tiempo publicadas diariamente por Mario Romero en [*covid19-mx-time-series*](https://github.com/mariorz/covid19-mx-time-series)<sup>1</sup>
 
+# tl;dr
+Genera una infografía simple para tu estado:
+
+![infografía](https://i.imgur.com/FTnP26g.png)
+
 # ¿Qué necesitas?
 Previo a visualizar los datos de la sección *indicadores*, deberás tener instalado Python y los paquetes `pandas` y `matplotlib`. En mi caso, fue vía el [instalador de paquetes *pip*](https://pypi.org/project/pip/). 
 
@@ -26,6 +31,7 @@ Los archivos de la tabla y sus visualizaciones, están disponibles en la carpeta
 
 | Nombre del archivo | Descripción |  
 | ------------------------------------ | -------------------------------------------  |
+| infografía_covid19.ipynb | Infografía con positivos, sospechosos, hospitalizados y defunciones |
 | positivos_registro.ipynb | Casos positivos acumulados por fecha de registro | 
 | positivos_sintomas.ipynb | Casos positivos acumulados por fecha de inicio de síntomas | 
 | hospitalizados_admision.ipynb | Casos hospitalizados confirmados por fecha de admisión |
